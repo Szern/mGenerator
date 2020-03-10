@@ -24,8 +24,6 @@ RewriteBase /
 
 do pliku .htacces
 
-Możesz przetestować skrypt tutaj: http://cyfrowaczekolada.pl/skrypty/mgenerator/ albo ściągnąć skrypt z załącznika i zrobić z nim co tylko chcesz.
-
 Na marginesie dodam, że tak wygenerowane podstrony ładnie i dość szybko się indeksują, zwiększając site strony do rozsądnych rozmiarów.
 
-Skrypt jest wczesną wersją, może zawierać błędy. Wszelki uwagi, sugestie i pomysły są mile widziane.
+Skrypt jest wczesną wersją, może zawierać błędy.
